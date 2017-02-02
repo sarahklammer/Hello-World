@@ -1,2 +1,2 @@
 # Hello-World
-gitting started
+Just gitting started and committing to changing it up
